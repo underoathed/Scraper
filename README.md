@@ -7,7 +7,7 @@ Uses Cheerio to scrape news articles from a site and allows the user to add note
 
 ## Demo
 
-*Mongo Scraper* is deployed to Heroku. Please check it out at 
+*Mongo Scraper* is deployed to Heroku. Please check it out at https://powerful-badlands-33381.herokuapp.com/
 
 ## Screen Shots
 
